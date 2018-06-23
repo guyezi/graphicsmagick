@@ -36,10 +36,10 @@ extern "C" {
 #define MagickPackageName "GraphicsMagick"
 #define MagickCopyright  "Copyright (C) 2002-2018 GraphicsMagick Group.\nAdditional copyrights and licenses apply to this software.\nSee http://www.GraphicsMagick.org/www/Copyright.html for details."
 #define MagickLibVersion  0x211801
-#define MagickLibVersionText  "1.4"
+#define MagickLibVersionText  "1.3.30"
 #define MagickLibVersionNumber 21,18,1
 #define MagickChangeDate   "20180623"
-#define MagickReleaseDate  "snapshot-20180623"
+#define MagickReleaseDate  "2018-06-23"
 	
 /*
   The MagickLibInterfaceNewest and MagickLibInterfaceOldest defines
